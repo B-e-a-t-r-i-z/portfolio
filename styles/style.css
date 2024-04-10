@@ -13,7 +13,7 @@ body {
 }
    
 :target {
-    scroll-margin: 90px;
+    scroll-margin: 100px;
 }
 
 /* CABEÇALHO */
