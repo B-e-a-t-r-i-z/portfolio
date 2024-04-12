@@ -41,7 +41,7 @@ Desafio do Alura + ONE onde tivemos que criar um portfólio com os projetos que 
 > - Utilize os elementos e CSS que destaquem os títulos.
 >##### Descrição curta sobre o projeto;
 > - Descreva o que foi implementado no seu projeto.
-Botão para o repositório do GitHub.
+>##### Botão para o repositório do GitHub.
 >###### *Extra: Botão Demo (se for possível, adicionar link para o projeto rodando no GitHub Pages).*
 
 >#### Seção Contato:
