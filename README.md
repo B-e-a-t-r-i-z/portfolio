@@ -13,7 +13,7 @@ Desafio do Alura + ONE onde tivemos que criar um portfólio com os projetos que 
 - Título do seu site;
 - Menu Principal;
 - Seção Sobre Mim;
-- Seção Hobbies e Soft Skills;
+- Seção Hobbies e Skills;
 - Seção Formações + Cursos;
 - Seção Experiência em programação;
 - Formulário de Contato;
@@ -44,9 +44,9 @@ Desafio do Alura + ONE onde tivemos que criar um portfólio com os projetos que 
 Botão para o repositório do GitHub.
 >###### *Extra: Botão Demo (se for possível, adicionar link para o projeto rodando no GitHub Pages).*
 
->#### Elemento da seção Contato:
+>#### Seção Contato:
 > ##### Desenvolva um formulário de contato que deve conter os seguintes campos:
-> - Nome
+> - Nome;
 > - E-mail;
 > - Assunto;
 > - Mensagem;
